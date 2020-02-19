@@ -6,5 +6,5 @@
 ### [・ERmod](https://sourceforge.net/projects/ermod/)
 ### [・Decond](https://github.com/decond/decond)
 
-## ソフトウェアのコンパイル方法(https://github.com/mtbys-lab/intranet-clusters#ソフトウェアのビルド)
+## [ソフトウェアのコンパイル方法](https://github.com/mtbys-lab/intranet-clusters#ソフトウェアのビルド)
 
