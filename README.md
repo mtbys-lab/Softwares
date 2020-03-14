@@ -11,6 +11,6 @@
 - [MD](https://github.com/mtbys-lab/md-intro)
 - [可視化ソフト](https://github.com/mtbys-lab/Visualization)
 
-# ソフトウェアの利用
+# 内部計算機でのMD計算関係
 - [ソフトウェアのコンパイル方法](https://github.com/mtbys-lab/intranet-clusters#ソフトウェアのビルド)
 
