@@ -7,10 +7,6 @@
 - [Decond](https://github.com/decond/decond)
 - [Gnuplot](https://github.com/mtbys-lab/gnuplot-text_and_samples)
 
-## まとめ
-- [MD](https://github.com/mtbys-lab/md-intro)
-- [可視化ソフト](https://github.com/mtbys-lab/Visualization)
-
-# 内部計算機でのMD計算関係
+- [MDチュートリアル](https://github.com/mtbys-lab/md-intro)
 - [ソフトウェアのコンパイル方法](https://github.com/mtbys-lab/intranet-clusters#ソフトウェアのビルド)
 
