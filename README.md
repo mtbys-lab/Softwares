@@ -10,4 +10,5 @@
 
 - [MDチュートリアル](https://github.com/mtbys-lab/md-intro)
 - [ソフトウェアのコンパイル方法](https://github.com/mtbys-lab/intranet-clusters#ソフトウェアのビルド)
+- [高分子MD関連のスクリプト](https://github.com/mtbys-lab/Polymer/tree/master/script)
 
