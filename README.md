@@ -10,7 +10,9 @@
 - [Ovito](https://github.com/mtbys-lab/Visualization/tree/master/Ovito)
 - [Pymol](https://github.com/mtbys-lab/Visualization/tree/master/Pymol)
 <br>
-
+- J-OCTA
+- ChemDraw
+<br>
 - [MDチュートリアル](https://github.com/mtbys-lab/md-intro)
 - [ソフトウェアのコンパイル方法](https://github.com/mtbys-lab/intranet-clusters#ソフトウェアのビルド)
 - [高分子MD関連のスクリプト](https://github.com/mtbys-lab/Polymer/tree/master/script)
