@@ -11,8 +11,8 @@
 - [Pymol](https://github.com/mtbys-lab/Visualization/tree/master/Pymol)
 <br>
 
-- J-OCTA
-- ChemDraw
+- [J-OCTA](https://github.com/mtbys-lab/Polymer/tree/master/J-OCTA)
+- [ChemDraw]()
 <br>
 
 - [MDチュートリアル](https://github.com/mtbys-lab/md-intro)
