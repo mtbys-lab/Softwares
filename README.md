@@ -12,7 +12,7 @@
 <br>
 
 - [J-OCTA](https://github.com/mtbys-lab/Polymer/tree/master/J-OCTA)
-- [ChemDraw]()
+- [ChemDraw](https://github.com/mtbys-lab/ChemDraw)
 <br>
 
 - [MDチュートリアル](https://github.com/mtbys-lab/md-intro)
