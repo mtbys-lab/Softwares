@@ -19,6 +19,9 @@
 - [ANATRA](https://github.com/mtbys-lab/ANATRA)
 <br>
 
+- [automated_polymerMD](https://github.com/mtbys-lab/automated_polymerMD)
+<br>
+
 - [incrOpenMM(under construction)](https://github.com/yamada1988/mypythonpkg)
 <br>
 
