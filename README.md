@@ -1,5 +1,5 @@
 # ソフトウェア
-- [Gaussian](https://github.com/mtbys-lab/Gaussian)
+- [Gaussian, GaussView](https://github.com/mtbys-lab/Gaussian)
 - [AmberTools, Packmol, ACPYPE](https://github.com/mtbys-lab/md-tools)
 - [PLUMED](https://github.com/mtbys-lab/PLUMED)
 - [ERmod](https://sourceforge.net/projects/ermod/)
