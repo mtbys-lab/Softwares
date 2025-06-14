@@ -15,7 +15,7 @@
 - [ChemDraw](https://github.com/mtbys-lab/ChemDraw)
 <br>
 
-- [ANATRA](https://github.com/mtbys-lab/ANATRA)
+- [ANATRA](https://github.com/kenkasa/anatra)
 <br>
 
 - [automated_polymerMD](https://github.com/mtbys-lab/automated_polymerMD)
